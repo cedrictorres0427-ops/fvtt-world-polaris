@@ -505,7 +505,7 @@
     }
   ],
   "playtime": 148873,
-  "background": "https://assets.forge-vtt.com/654e5e7579e810eb8a3c192b/Game%20Banners/Polaris_logo.jpg",
+  "background": "systems/polaris/ui/Polaris_logo.jpg",
   "nextSession": "2024-03-11T20:00:00.000Z",
   "version": "1.0.0",
   "url": "https://github.com/cedrictorres0427-ops/fvtt-world-polaris",
