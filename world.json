@@ -1,0 +1,514 @@
+{
+  "title": "Polaris",
+  "id": "polaris",
+  "system": "polaris",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "0.2.6",
+  "lastPlayed": "Tue Mar 04 2025 20:06:09 GMT+0000 (Coordinated Universal Time)",
+  "packs": [
+    {
+      "label": "OUTILLAGE",
+      "type": "Item",
+      "name": "outillage",
+      "path": "packs/outillage",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "COMMUNICATION",
+      "type": "Item",
+      "name": "communication",
+      "path": "packs/communication",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "SECURITE",
+      "type": "Item",
+      "name": "securite",
+      "path": "packs/securite",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "EQUIPEMENT ELECTRONIQUE",
+      "type": "Item",
+      "name": "equipement-electronique",
+      "path": "packs/equipement-electronique",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "SURVIE",
+      "type": "Item",
+      "name": "survie",
+      "path": "packs/survie",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "VIE QUOTIDIENNE",
+      "type": "Item",
+      "name": "vie-quotidienne",
+      "path": "packs/vie-quotidienne",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "AMES DE CONTACT",
+      "type": "Item",
+      "name": "ames-de-contact",
+      "path": "packs/ames-de-contact",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "MATERIEL",
+      "type": "Item",
+      "name": "materiel",
+      "path": "packs/materiel",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES DE JET ET DE TRAITS",
+      "type": "Item",
+      "name": "armes-de-jet-et-de-traits",
+      "path": "packs/armes-de-jet-et-de-traits",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES A FEU",
+      "type": "Item",
+      "name": "armes-a-feu",
+      "path": "packs/armes-a-feu",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES DE POING",
+      "type": "Item",
+      "name": "armes-de-poing",
+      "path": "packs/armes-de-poing",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES D'EPAULE",
+      "type": "Item",
+      "name": "armes-depaule",
+      "path": "packs/armes-depaule",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES LOURDES",
+      "type": "Item",
+      "name": "armes-lourdes",
+      "path": "packs/armes-lourdes",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES A PROJECTILES SOUS-MARINES",
+      "type": "Item",
+      "name": "armes-a-projectiles-sous-marines",
+      "path": "packs/armes-a-projectiles-sous-marines",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES A SUPERCAVITATION",
+      "type": "Item",
+      "name": "armes-a-supercavitation",
+      "path": "packs/armes-a-supercavitation",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES A ENERGIE",
+      "type": "Item",
+      "name": "armes-a-energie",
+      "path": "packs/armes-a-energie",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "MODULES D'ARMEMENTS",
+      "type": "Item",
+      "name": "modules-darmements",
+      "path": "packs/modules-darmements",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "LANCEURS",
+      "type": "Item",
+      "name": "lanceurs",
+      "path": "packs/lanceurs",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMES SPECIALES",
+      "type": "Item",
+      "name": "armes-speciales",
+      "path": "packs/armes-speciales",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "EXPLOSIFS, MINES ET GRENADES",
+      "type": "Item",
+      "name": "explosifs-mines-et-grenades",
+      "path": "packs/explosifs-mines-et-grenades",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "CHARGES DE PROFONDEUR",
+      "type": "Item",
+      "name": "charges-de-profondeur",
+      "path": "packs/charges-de-profondeur",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "GRENADES ANTI-VEHICULE",
+      "type": "Item",
+      "name": "grenades-anti-vehicule",
+      "path": "packs/grenades-anti-vehicule",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "MUNITIONS",
+      "type": "Item",
+      "name": "munitions",
+      "path": "packs/munitions",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "AUTRES MUNITIONS \"EXOTIQUES\"",
+      "type": "Item",
+      "name": "autres-munitions-exotiques",
+      "path": "packs/autres-munitions-exotiques",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ACCESSOIRES POUR ARMES",
+      "type": "Item",
+      "name": "accessoires-pour-armes",
+      "path": "packs/accessoires-pour-armes",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "ARMURES DE PEAU",
+      "type": "Item",
+      "name": "armures-de-peau",
+      "path": "packs/armures-de-peau",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "PROTECTIONS, TENUES, COMBINAISONS ET MATÉRIEL DÉFENSIF",
+      "type": "Item",
+      "name": "protections-tenues-combinaisons-et-materiel-defensif",
+      "path": "packs/protections-tenues-combinaisons-et-materiel-defensif",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "BIO-PROTECTION MANUFACTUREE",
+      "type": "Item",
+      "name": "bio-protection-manufacturee",
+      "path": "packs/bio-protection-manufacturee",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "DUPLICATEUR D'IMAGE",
+      "type": "Item",
+      "name": "duplicateur-dimage",
+      "path": "packs/duplicateur-dimage",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "PROTECTIONS - TENUES - COMBINAISONS - MATÉRIEL DÉFENSIF",
+      "type": "Item",
+      "name": "protections-tenues-combinaisons-materiel-defensif",
+      "path": "packs/protections-tenues-combinaisons-materiel-defensif",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "COMBINAISON D’ÉNERGIE NOIRE GÉNÉTICIENNE",
+      "type": "Item",
+      "name": "combinaison-denergie-noire-geneticienne",
+      "path": "packs/combinaison-denergie-noire-geneticienne",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "TENUES DE PLONGER ULTRA-LEGERES",
+      "type": "Item",
+      "name": "tenues-de-plonger-ultra-legeres",
+      "path": "packs/tenues-de-plonger-ultra-legeres",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "TENUES DE PROTECTION",
+      "type": "Item",
+      "name": "tenues-de-protection",
+      "path": "packs/tenues-de-protection",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Attaques Monstres",
+      "type": "Item",
+      "name": "attaques-monstres",
+      "path": "packs/attaques-monstres",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Effet Polaris",
+      "type": "Item",
+      "name": "effet-polaris",
+      "path": "packs/effet-polaris",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Location",
+      "type": "Item",
+      "name": "location",
+      "path": "packs/location",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Compétences Surface",
+      "type": "Item",
+      "name": "competences-surface",
+      "path": "packs/competences-surface",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Mutations",
+      "type": "Item",
+      "name": "mutations",
+      "path": "packs/mutations",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Polaris Solaire",
+      "type": "Item",
+      "name": "polaris-solaire",
+      "path": "packs/polaris-solaire",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Marchandises (Marché Noir)",
+      "type": "Item",
+      "name": "marchandises-marche-noir",
+      "path": "packs/marchandises-marche-noir",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Créatures",
+      "type": "Actor",
+      "name": "creatures",
+      "path": "packs/creatures",
+      "system": "polaris",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 148873,
+  "background": "https://assets.forge-vtt.com/654e5e7579e810eb8a3c192b/Game%20Banners/Polaris_logo.jpg",
+  "nextSession": "2024-03-11T20:00:00.000Z",
+  "version": "1.0.0",
+  "url": "https://github.com/cedrictorres0427-ops/fvtt-world-polaris",
+  "manifest": "https://github.com/cedrictorres0427-ops/fvtt-world-polaris/releases/latest/download/world.json",
+  "download": "https://github.com/cedrictorres0427-ops/fvtt-world-polaris/releases/download/v1.0.0/polaris.zip"
+}
